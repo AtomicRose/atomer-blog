@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Atomer
-subtitle: Mirage Atom
-description:
+title: 侃聊
+subtitle: 一本正经的胡说前端
+description: 前端那些事
 author: Atomer Fang
 language: zh-CN
 timezone: Asia/Shanghai
@@ -19,7 +19,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: dist
+public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
