@@ -11,6 +11,14 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 $ hexo new "My New Post"
 ```
 
+`abcdefg`
+
+``` javascript
+function () {
+    var a = 0;
+}
+```
+
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
@@ -36,3 +44,12 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+``` java
+class a extends abc {
+    return abc;
+}
+```
+
+
+`fdsfad`
